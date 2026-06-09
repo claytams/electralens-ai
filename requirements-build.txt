@@ -1,0 +1,5 @@
+# 단일 exe 빌드용 의존성 (PyInstaller가 함께 번들).
+# 런타임 의존성을 여기서 버전 고정해 재현 가능한 빌드를 만든다.
+pyinstaller>=6.0
+Pillow>=10.0
+numpy>=1.24

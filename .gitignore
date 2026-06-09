@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# PyInstaller build output
+build/
+dist/
+build_tools/
+*.spec
+
+# Runtime output (samples/captures/screenshots generated at runtime)
+ElectraLensAI_Runtime/
+report/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

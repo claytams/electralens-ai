@@ -1,0 +1,8 @@
+# 런타임 필수 의존성
+Pillow>=10.0
+numpy>=1.24
+
+# 선택: 라벨/안전 모드에서 실제 사진의 텍스트를 읽으려면 아래를 설치하세요.
+#   pip install pytesseract
+# 그리고 시스템에 Tesseract OCR 엔진을 설치해야 합니다(https://github.com/tesseract-ocr/tesseract).
+# 없어도 앱은 정상 동작하며, 자동으로 '수동 확인 체크리스트'로 폴백합니다.

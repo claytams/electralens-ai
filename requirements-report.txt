@@ -1,0 +1,2 @@
+# 보고서(DOCX) 생성 도구(tools/make_report.py) 전용 의존성.
+python-docx>=1.1
